@@ -21,7 +21,7 @@ A modern, elegant, and fully responsive developer portfolio showcasing my skills
 
 ---
 
-# 📖 Overview
+#  Overview
 
 Welcome to my personal developer portfolio.
 
@@ -31,24 +31,24 @@ The portfolio provides visitors with an engaging experience while highlighting m
 
 ---
 
-# ✨ Features
+#  Features
 
-- 🎨 Modern & Elegant UI
-- 📱 Fully Responsive Design
-- 🏠 Interactive Home Section
-- 👩 Professional About Section
-- 💻 Technical Skills Showcase
-- 🚀 Featured Projects
-- 📜 Resume Download
-- 🏆 Certifications Section
-- 🎓 Education Timeline
-- 📬 Contact Section
-- ⚡ Smooth User Experience
-- 🌙 Beautiful Design
+-  Modern & Elegant UI
+-  Fully Responsive Design
+-  Interactive Home Section
+-  Professional About Section
+-  Technical Skills Showcase
+-  Featured Projects
+-  Resume Download
+-  Certifications Section
+-  Education Timeline
+-  Contact Section
+-  Smooth User Experience
+-  Beautiful Design
 
 ---
 
-# 🛠 Tech Stack
+#  Tech Stack
 
 | Category | Technologies |
 |-----------|--------------|
@@ -60,7 +60,7 @@ The portfolio provides visitors with an engaging experience while highlighting m
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```text
 Muskan-Portfolio
@@ -84,7 +84,7 @@ Muskan-Portfolio
 
 ---
 
-# 🚀 Getting Started
+#  Getting Started
 
 ## 1. Clone the Repository
 
@@ -128,49 +128,49 @@ npm run build
 
 # 📸 Portfolio Sections
 
-### 🏠 Home
+###  Home
 
 An attractive landing page introducing who I am.
 
 ---
 
-### 👩 About Me
+###  About Me
 
 Learn about my education, interests, and career goals.
 
 ---
 
-### 💻 Skills
+###  Skills
 
 Displays my technical skills in programming, AI, and web development.
 
 ---
 
-### 🚀 Projects
+###  Projects
 
 A collection of my featured projects with descriptions and technologies used.
 
 ---
 
-### 📜 Resume
+###  Resume
 
 Visitors can download my latest resume.
 
 ---
 
-### 🏆 Certificates
+###  Certificates
 
 Highlights my certifications and achievements.
 
 ---
 
-### 📬 Contact
+###  Contact
 
 Provides multiple ways to connect with me.
 
 ---
 
-# 💡 Key Highlights
+#  Key Highlights
 
 - Clean & Professional UI
 - Responsive on all devices
@@ -183,45 +183,45 @@ Provides multiple ways to connect with me.
 
 ---
 
-# 📷 Screenshots
+#  Screenshots
 
-## 🏠 Home Page
+##  Home Page
 
 > Add your homepage screenshot here.
 
 ---
 
-## 👩 About Section
+##  About Section
 
 > Add screenshot here.
 
 ---
 
-## 💻 Skills Section
+##  Skills Section
 
 > Add screenshot here.
 
 ---
 
-## 🚀 Projects Section
+##  Projects Section
 
 > Add screenshot here.
 
 ---
 
-## 📜 Resume Section
+##  Resume Section
 
 > Add screenshot here.
 
 ---
 
-## 📬 Contact Section
+##  Contact Section
 
 > Add screenshot here.
 
 ---
 
-# 🎯 Purpose of this Portfolio
+#  Purpose of this Portfolio
 
 This portfolio was developed to showcase my technical abilities, highlight my projects, and provide recruiters and fellow developers with a comprehensive overview of my skills and experience.
 
@@ -229,53 +229,53 @@ It reflects my dedication to continuous learning and my passion for Artificial I
 
 ---
 
-# 🚀 Future Enhancements
+#  Future Enhancements
 
-- 🤖 AI Chatbot Integration
-- 🌙 Dark / Light Mode
-- 📊 GitHub Contribution Graph
-- 🌍 Multi-language Support
-- 📝 Blog Section
-- 🎥 Project Demo Videos
-- 📈 More Interactive Animations
+-  AI Chatbot Integration
+-  Dark / Light Mode
+-  GitHub Contribution Graph
+-  Multi-language Support
+-  Blog Section
+-  Project Demo Videos
+-  More Interactive Animations
 
 ---
 
-# 👩‍💻 About the Developer
+#  About the Developer
 
 ## Muskan
 
-🎓 B.Sc. Computer Science Student
+ B.Sc. Computer Science Student
 
-🏫 Kurukshetra University
+ Kurukshetra University
 
-💡 Currently pursuing Artificial Intelligence training and continuously improving my skills in Python, AI, Machine Learning, and Web Development.
+ Currently pursuing Artificial Intelligence training and continuously improving my skills in Python, AI, Machine Learning, and Web Development.
 
 I enjoy building real-world applications, solving coding challenges, and learning new technologies.
 
 ---
 
-# 📬 Connect With Me
+#  Connect With Me
 
-📧 **Email**
+ **Email**
 
 muskanchauhan88330044@gmail.com
 
-📍 **Location**
+ **Location**
 
 Kaithal, Haryana, India
 
-💻 **GitHub**
+**GitHub**
 
 https://github.com/your-github-username
 
-🌐 **Portfolio**
+ **Portfolio**
 
 Add your deployed portfolio link here.
 
 ---
 
-# 🙏 Acknowledgements
+#  Acknowledgements
 
 Special thanks to all the open-source tools and technologies that made this project possible.
 
@@ -287,15 +287,15 @@ Special thanks to all the open-source tools and technologies that made this proj
 
 ---
 
-# ⭐ Support
+#  Support
 
 If you like this project, please consider:
 
-⭐ Starring this repository
+ Starring this repository
 
-🍴 Forking the project
+ Forking the project
 
-📢 Sharing it with others
+ Sharing it with others
 
 Your support is greatly appreciated!
 
@@ -303,7 +303,7 @@ Your support is greatly appreciated!
 
 <div align="center">
 
-## 🌟 Thank You for Visiting!
+##  Thank You for Visiting!
 
 ### Designed & Developed with ❤️ by Muskan
 
